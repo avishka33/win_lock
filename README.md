@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/avishka33/PRINCE-AVI-MD/main/Menu2.jpg" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/avishka33/win_lock/main/Avi-win-lock.jpg" width="300" height="300"/>
 </p>
 
 Do you have items you want to keep hidden on your computer? Creating a locked folder using a batch script is a fun and easy way to hide files in low-stakes situations that don't require files to be encrypted. This Avi win_lok teaches you how to create a locker folder using a batch file.
