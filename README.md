@@ -2,6 +2,11 @@
 # How to Lock a Folder Using a Batch File
 # Created By Avishka Shavinda
 
+</p>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/134716496?v=4.jpg" width="300" height="300"/>
+</p>
+
 Do you have items you want to keep hidden on your computer? Creating a locked folder using a batch script is a fun and easy way to hide files in low-stakes situations that don't require files to be encrypted. This Avi win_lok teaches you how to create a locker folder using a batch file.
 
 
